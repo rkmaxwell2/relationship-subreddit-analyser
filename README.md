@@ -36,7 +36,8 @@ To set up the project, follow these steps:
    mkdir data
    ```
 
-4. **Update the client config with your API credentialt**:
+4. **Update the client config with your API credentials**:
+
 The client_config.py file in the client directory contains the following variables
    ```bash
    client_id=
