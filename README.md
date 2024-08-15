@@ -65,6 +65,3 @@ To process all case files and generate HTML reports summarising the findings, ru
 ```bash
    python scripts/3_generate_html.py
    ```
-
-## Contact
-For any questions or further information, please contact rkmaxwell@hotmail.com
