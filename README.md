@@ -4,9 +4,9 @@
 
 This project aims to analyse submissions on the Relationships subreddit by processing the original and update submissions. The project is divided into three main stages:
 
-1. **Sample Generation**: Create a sample dataset of original and update submissions from a chosen subreddit. (1_generate_sample.py)
-2. **Comment Extraction**: Extract and analyse comments and replies for each case, generating datasets with relevant metrics. (2_process_sample.py)
-3. **HTML Generation**: Process all case files in the data folder to produce HTML reports summarising the findings. (3_generate_html.py)
+1. **Sample Generation**: Create a sample dataset of original and update submissions from a chosen subreddit.
+2. **Comment Extraction**: Extract and analyse comments and replies for each case, generating datasets with relevant metrics.
+3. **HTML Generation**: Process all case files in the data folder to produce HTML reports summarising the findings.
 
 
 ## Setup
