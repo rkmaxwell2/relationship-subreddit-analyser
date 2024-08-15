@@ -6,7 +6,7 @@ This project aims to analyse submissions on the Relationships subreddit by proce
 
 1. **Sample Generation**: Create a sample dataset of original and update submissions from a chosen subreddit. (1_generate_sample.py)
 2. **Comment Extraction**: Extract and analyse comments and replies for each case, generating datasets with relevant metrics. (2_process_sample.py)
-3. **HTML Generation**: Process all case files in the data folder to produce HTML reports summarizing the findings. (3_generate_html.py)
+3. **HTML Generation**: Process all case files in the data folder to produce HTML reports summarising the findings. (3_generate_html.py)
 
 
 ## Setup
@@ -52,7 +52,7 @@ To extract and analyse comments and replies for each case and generate datasets 
    ```
 
 3. HTML Generation
-To process all case files and generate HTML reports summarizing the findings, run:
+To process all case files and generate HTML reports summarising the findings, run:
 ```bash
    python scripts/3_generate_html.py
    ```
