@@ -18,33 +18,44 @@ To set up the project, follow these steps:
    ```bash
    git clone https://github.com/rkmaxwell2/relationship-subreddit-analyser.git
    cd relationship-subreddit-analyser
+   ```
 
 2. **Create a virtual environment**:
-python -m venv venv
-source venv/bin/activate
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+   ```
 
 3. **Install dependencies**:
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 4. **Create data directory**:
-mkdir data
+   ```bash
+   mkdir data
+   ```
 
 
 ## Usage
 
 1. Sample Generation
 To create a sample dataset of original and update submissions, run:
-python scripts/1_generate_sample.py
+   ```bash
+   python scripts/1_generate_sample.py
+   ```
 
 2. Comment Extraction
 To extract and analyze comments and replies for each case and generate datasets with metrics, run:
-python scripts/2_process_sample.py
-
-File: scripts/process_data.py
+   ```bash
+   python scripts/2_process_sample.py
+   ```
 
 3. JSON Generation
 To process all case files and generate HTML reports summarizing the findings, run:
-python scripts/3_generate_html.py
+```bash
+   python scripts/3_generate_html.py
+   ```
 
 ## Contact
 For any questions or further information, please contact your-email@example.com.
