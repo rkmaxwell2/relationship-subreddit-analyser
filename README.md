@@ -38,13 +38,13 @@ To set up the project, follow these steps:
 
 4. **Update the client config with your API credentials**:
 
-The client_config.py file in the client directory contains the following variables
+   The client_config.py file in the client directory contains the following variables
    ```bash
    client_id=
    client_secret=
    user_agent=
    ```
-These need to be replaced with your access secrets in order to access the reddit client via PRAW.
+   These need to be replaced with your access secrets in order to access the reddit client via PRAW.
 
 ## Usage
 
