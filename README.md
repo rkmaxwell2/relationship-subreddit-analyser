@@ -58,4 +58,4 @@ To process all case files and generate HTML reports summarising the findings, ru
    ```
 
 ## Contact
-For any questions or further information, please contact your-email@example.com.
+For any questions or further information, please contact rkmaxwell@hotmail.com
